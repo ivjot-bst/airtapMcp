@@ -1,0 +1,1 @@
+- Improved error handling for device timeouts
