@@ -1,1 +1,2 @@
 - Improved error handling for device timeouts
+- Fixed race condition when multiple connections established
