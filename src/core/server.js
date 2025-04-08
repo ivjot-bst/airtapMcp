@@ -3,7 +3,7 @@
  */
 
 const express = require('express');
-const http = require('http');
+const http = require('http'); // Node.js HTTP module
 const WebSocket = require('ws');
 const bodyParser = require('body-parser');
 const { verifyTokenMiddleware } = require('../utils/auth');
