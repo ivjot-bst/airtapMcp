@@ -21,7 +21,7 @@ const mockLogger = {
 
 describe('Android Interaction Tools', () => {
   let tools;
-  const mockApiToken = 'test-api-token';
+  const mockApiToken = 'test-api-token'; // Test credential
   const mockSession = { id: 'test-session' };
   
   beforeEach(() => {
