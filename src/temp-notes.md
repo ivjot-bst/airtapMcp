@@ -1,3 +1,4 @@
 - Improved error handling for device timeouts
 - Fixed race condition when multiple connections established
 - New feature: detect device orientation changes
+- Reduced memory usage during screenshot processing
