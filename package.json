@@ -1,6 +1,6 @@
 {
   "name": "@airtap/mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A powerful Model Context Protocol (MCP) server that provides seamless integration with Android devices in a sandbox environment",
   "main": "src/index.js",
   "scripts": {
