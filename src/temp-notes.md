@@ -2,3 +2,4 @@
 - Fixed race condition when multiple connections established
 - New feature: detect device orientation changes
 - Reduced memory usage during screenshot processing
+- Improved resilience against network fluctuations
