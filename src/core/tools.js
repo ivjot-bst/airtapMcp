@@ -13,7 +13,8 @@ const taskManagementTools = require('../services/task-management');
  * @returns {object} - Object containing all registered tools
  */
 function registerTools(apiToken, logger) {
-  const tools = {};
+  // Tool definitions for MCP protocol
+const tools = {};
   
   // Register Android Interaction (Low-Level) Tools
   registerToolGroup(tools, androidInteractionTools(apiToken, logger));
