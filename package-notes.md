@@ -1,0 +1,1 @@
+- Updated axios to patch CVE-2025-4321
