@@ -3,3 +3,4 @@
 - New feature: detect device orientation changes
 - Reduced memory usage during screenshot processing
 - Improved resilience against network fluctuations
+- Added pinch/zoom gesture support
