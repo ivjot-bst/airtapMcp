@@ -11,6 +11,7 @@ module.exports = {
     ecmaVersion: 12,
     sourceType: 'module',
   },
+  // Linting rules configuration
   rules: {
     'indent': ['error', 2],
     'linebreak-style': ['error', 'unix'],
