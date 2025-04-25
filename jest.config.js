@@ -1,3 +1,4 @@
+// Jest test runner configuration
 module.exports = {
   testEnvironment: 'node',
   collectCoverage: true,
