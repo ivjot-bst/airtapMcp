@@ -4,3 +4,4 @@
 - Reduced memory usage during screenshot processing
 - Improved resilience against network fluctuations
 - Added pinch/zoom gesture support
+- Improved element detection in dark themed apps
