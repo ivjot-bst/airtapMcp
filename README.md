@@ -64,6 +64,8 @@ Airtap acts as a bridge between AI agents and Android devices, providing a secur
 ```
 
 ## 🚀 Key Use Cases
+
+> Note: These use cases represent common automation scenarios
 1. **Autonomous Android Agents**
    Build AI agents that can complete complex mobile tasks independently
 2. **Automated Mobile App Testing**
