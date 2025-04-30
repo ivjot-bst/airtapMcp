@@ -6,3 +6,4 @@
 - Added pinch/zoom gesture support
 - Improved element detection in dark themed apps
 - Reduced memory footprint for extended operations
+- Added configurable rate limiting to prevent throttling
