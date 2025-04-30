@@ -4,6 +4,8 @@ This guide provides detailed instructions for installing and setting up the Airt
 
 ## Prerequisites
 
+> Note: Ensure you have all prerequisites installed before proceeding
+
 Before you begin, ensure you have the following prerequisites installed:
 
 - **Node.js** (v16.0.0 or higher)
