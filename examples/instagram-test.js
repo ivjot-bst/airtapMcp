@@ -25,6 +25,7 @@ if (!API_TOKEN) {
 
 // Connect to Airtap MCP server
 console.log('Connecting to Airtap MCP server...');
+// Initialize WebSocket connection
 const ws = new WebSocket(MCP_SERVER_URL);
 
 // Counter for message IDs
