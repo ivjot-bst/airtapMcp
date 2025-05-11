@@ -10,3 +10,4 @@
 - Added detailed error codes and messages
 - Implemented connection pooling for faster response times
 - Allow configurable timeouts per operation
+- Added ability to save and restore device state
