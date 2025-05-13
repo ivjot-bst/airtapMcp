@@ -11,3 +11,4 @@
 - Implemented connection pooling for faster response times
 - Allow configurable timeouts per operation
 - Added ability to save and restore device state
+- Fixed navigation issues introduced in recent update
