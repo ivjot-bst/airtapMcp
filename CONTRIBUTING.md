@@ -14,6 +14,8 @@ We use GitHub to host code, to track issues and feature requests, as well as acc
 
 ### Pull Requests
 
+We welcome pull requests from the community.
+
 1. Fork the repo and create your branch from `main`.
 2. If you've added code that should be tested, add tests.
 3. If you've changed APIs, update the documentation.
