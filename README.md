@@ -34,18 +34,18 @@ Airtap acts as a bridge between AI agents and Android devices, providing a secur
 │  │ Management │◄──►│ Interaction│◄──►│ System             │    │
 │  │ API        │    │ Engine     │    │                    │    │
 │  └────────────┘    └─────┬──────┘    └────────────────────┘    │
-│                          │                                      │
+│                          │                                     │
 │                    ┌─────▼──────┐     ┌────────────────────┐   │
 │                    │ UI Element │     │ Computer Vision    │   │
-│                    │ Detection  │◄───►│ (Parasail UI-TARS) │   │
+│                    │ Detection  │◄───►│                    │   │
 │                    └─────┬──────┘     └────────────────────┘   │
-│                          │                                      │
-└──────────────────────────┼──────────────────────────────────────┘
+│                          │                                     │
+└──────────────────────────┼─────────────────────────────────────┘
                            │
                            │ Secure Connection
                            ▼
 ┌────────────────────────────────────────────────────────────────┐
-│                       Sandbox Environment                       │
+│                       Sandbox Environment                      │
 │                                                                │
 │    ┌────────────────┐      ┌────────────────┐                  │
 │    │                │      │  App Store &   │                  │
@@ -53,7 +53,7 @@ Airtap acts as a bridge between AI agents and Android devices, providing a secur
 │    │ Instance       │      │  Management    │                  │
 │    │                │      │                │                  │
 │    └───────┬────────┘      └────────────────┘                  │
-│            │                                                    │
+│            │                                                   │
 │    ┌───────▼────────┐      ┌────────────────┐                  │
 │    │ Screen Capture │      │ Device State   │                  │
 │    │ & Analysis     │◄────►│  Management    │                  │
@@ -152,8 +152,6 @@ Add Airtap to your MCP servers list in your configuration:
 ## 🔒 Security Considerations
 - All Android interactions occur in a secure sandbox environment
 - API tokens should be kept confidential and never exposed in client-side code
-- Consider implementing rate limiting for your production applications
-- Regular security audits are recommended for mission-critical implementations
 
 ## 🌟 Best Practices
 - Start Simple: Begin with basic interactions before attempting complex workflows
@@ -174,7 +172,6 @@ For significant changes, please open an issue first to discuss your proposal.
 ## 📞 Support
 If you encounter any issues or have questions, please:
 - Check our GitHub Issues for similar problems
-- Join our Discord community for real-time support
 - Contact support at support@airtap.ai
 
 ---
