@@ -172,6 +172,8 @@ We welcome contributions to help improve Airtap! Here's how you can help:
 For significant changes, please open an issue first to discuss your proposal.
 
 ## 📞 Support
+
+For support inquiries, please contact our team at support@airtap.ai
 If you encounter any issues or have questions, please:
 - Check our GitHub Issues for similar problems
 - Contact support at support@airtap.ai
